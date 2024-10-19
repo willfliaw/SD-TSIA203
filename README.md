@@ -47,8 +47,7 @@ For practical exercises, you will need Python, PyTorch, and Keras. Follow the in
    ```bash
    conda activate deep_learning
    ```
-4. Launch Jupyter Notebook:
-   You can launch Jupyter Notebook for practical sessions:
+4. Launch Jupyter Notebook (if required for exercises): 
    ```bash
    jupyter notebook
    ```
